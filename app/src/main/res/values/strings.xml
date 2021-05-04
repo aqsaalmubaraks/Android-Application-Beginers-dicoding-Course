@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MakananKu</string>
+    <string name="foods_name">Jenis Makanan</string>
+    <string name="detail">Deskripsi Makanan</string>
+    <string name="myname">Moh Aqsa Almubaraks</string>
+    <string name="mystatus">Dicoding Student</string>
+    <string name="aboutme">Hello Everyone My name is Moh Aqsa Almubaraks im a I’m a UI/UX enthusiast with over 2 years experience in handling UI/UX projects and research. My unique  professional experience stems from years of providing a great user experience and interface, creative problem solving and UI/UX trend analysis. </string>
+    <string name="selengkapnya">Beli</string>
+    <string name="profile">Profile</string>
+    <string name="beli">Beli</string>
+    <string name="favorite">Suka</string>
+    <string name="list">List Makanan</string>
+
+    <string name="Jenis_makanan"> Mie Goreng </string>
+    <string name="deskripsi_makanan">makanan ini sangatlah bergizi dan disenangi oleh banyak masyarakat indonesiamakanan ini sangatlah bergizi dan disenangi oleh banyak masyarakat indonesiamakanan ini sangatlah bergizi dan disenangi oleh banyak masyarakat indonesiamakanan ini sangatlah bergizi dan disenangi oleh banyak masyarakat indonesia</string>
+    <string name="harga_makanan">Rp 20000</string>
+    <string name="alamat_penjualan">Jalan Sukabirus Bandung Jawa Barat</string>
+    <string name="stock">10 Pcs</string>
+    <string name="dummy_value">Bahan Makanan ini adalah telor danlain lain</string>
+    <string name="beli_makanan">Beli</string>
+    <string name="email_profile">A0121192@bangkit.academy</string>
+</resources>
